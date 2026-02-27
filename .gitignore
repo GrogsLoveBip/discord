@@ -3,7 +3,7 @@
 /dist
 /discloud
 /deprecated
-/node_modules
+# /node_modules
 
 # Files
 /.env
